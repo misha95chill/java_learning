@@ -1,1 +1,1 @@
-Priject to learn git
+Project to learn git
